@@ -1,0 +1,50 @@
+<!-- This is an html page for Prof. Husain's JNL221.
+This page will be used at times for explaining homework instructions
+or displaying student work. -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Foundations Of Data And Digital Journalism</title>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="../index.css" />
+</head>
+
+<!-- DO NOT EDIT ANYTHING IN THE HEAD TAG ^ -->
+
+<body>
+	
+	<!-- Intro row -->
+	<div id="intro" class="col-sm-12">
+		<h1> <!-- /// EDITABLE ONE /// --> Ilana Epstein</h1>
+		<h4> <!-- /// EDITABLE TWO /// --> JNL 221, Syracuse University</h4>
+	</div>
+
+	<div class="container content">
+		<h2>Headline here</h2>
+		<p class="subhed">Subhed here</p>
+		<p class="byline">Your name</p>
+		
+		<p>For my datawrapper chart, I decided to make a stacked bar chart showcasing each month and the amount of cancelled, postponed and rescheduled shows there were. I did this because it was an easy way to be able to see all concert status updates quickly. In my creative dataviz, my goal was to draw a stage with both upper level and mezzanine seating, with each representing a cancellation, to showcase the concert as a whole. The orange was the stage, the straight lines were mezzanine and the diagonal lines were the upper level seating. </p>
+		<p>As an observer of these charts, I am noticing that there definitely can be some changes. I really like the Datawrapper chart, I think it really gets the point across of what I am trying to show. My creative dataviz chart, however, needs a lot of work. It looks messy and not clean. </p>
+		<p>After rethinking it, I've decided that I would make the stage look even, instead of having random parts stick out. Within that stage, I would have certain areas go further out than others. Although, in reality, some theaters do have stages that stick out, in this instance, it looks messy and it is unclear what I am trying to represent. I would also use more color and make it cleaner. I may actaully go back and remake a new chart.</p>
+
+		<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/d7DHP/1/embed.js?v=2 " charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/95P8E/full.png" alt="" /></noscript></div>
+
+		<img src="img yay.png" alt="" height="700" width="500" />
+
+	</div>
+
+
+  	<!-- About Row -->
+	<div class="row">
+		<div id="end" class="col-sm-12">
+			<h4> <!-- /// EDITABLE THREE /// --> this page was made in github pages with montserrat and open sans to hold assignments for a course at Newhouse.</h4>
+		</div>
+	</div>
+
+</body>
+</html>
